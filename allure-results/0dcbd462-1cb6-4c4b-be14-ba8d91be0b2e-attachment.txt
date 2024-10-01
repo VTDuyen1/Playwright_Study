@@ -1,0 +1,5 @@
+.product-essential
+Additional Price selectedProcessorText: 100
+Additional Price selectedRAMText: 20
+Additional Price selectedHDDext: 100
+totalPrice: 0
